@@ -1,2 +1,4 @@
 # doi-diem-mobifone-nhan-data
 Bật mí: Tích điểm MobiFone đổi data - Lướt web thả ga
+<p style="text-align: justify;">Nhiều người mong muốn <a href="https://3gmobifones.com/cach-doi-diem-mobifone-nhan-data"><strong>đổi điểm MobiFone thành data</strong></a> để sử dụng mạng tốc độ cao hơn. Điểm Kết Nối Dài Lâu của Mobi thường được khách hàng đổi sang phút gọi, tin nhắn, thẻ cào để sử dụng miễn phí? Vậy có thể thực hiện chuyển sang data được không? Đây chính là phần lớn thắc mắc của người dùng hiện nay.</p>
+<p style="text-align: justify;">Nếu bạn muốn thả ga truy cập internet mà không cần đăng ký gói 3G/ <a href="https://3gmobifones.com/cach-dang-ky-4g-mobifone" target="_blank" rel="noopener">4G MobiFone</a> thì hãy theo dõi cách đổi điểm tích lũy sau đây. Cú pháp thực hiện vô cùng đơn giản do đó hãy thực hiện ngay nhé!</p>
